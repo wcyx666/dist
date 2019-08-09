@@ -1,0 +1,2 @@
+webpackJsonp([11],{O0C3:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"purchase"},[this._v("\n    采购\n")])},staticRenderFns:[]},l=n("VU/8")(null,s,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=11.f1af05139e2591dc60fe.js.map
